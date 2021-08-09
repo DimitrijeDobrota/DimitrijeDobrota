@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitije Dobrota</h1>
-<h3 align="center">19-year old bachelor of Electrical Engineering and Computer Engineering, linux enthusiast who does scripting, system administration and C develompent.</h3>
+<h3 align="center">19-year old freshman of Electrical Engineering and Computer Engineering, linux enthusiast who does scripting, system administration and C develompent.</h3>
 
 - 🔭 I’m currently working on [personal website](https://dimitrijedobrota.com)
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [personal blog](https://blog.dimitrijedobrota.com)
 
-- 💬 Ask me about **linux, artix, c, vim
+- 💬 Ask me about **linux, artix, c, vim**
 
 - 📫 How to reach me **mail@dimitrijedobrota.com**
 
