@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dimitije Dobrota</h1>
 <h3 align="center">19-year old freshman of Electrical and Computer Engineering, Linux enthusiast who does scripting, system administration and C develompent.</h3>
 
-- 🔭 I’m currently working on [personal website](https://dimitrijedobrota.com)
+- 🔭 I’m currently working on [stamd](https://git.dimitrijedobrota.com/stamd/log.html), static markdown page generator
 
-- 🌱 I’m currently learning **ncurses, networking**
+- 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [git server](https://git.dimitrijedobrota.com) and [github](https://github.com/DimitrijeDobrota)
+- 👨‍💻 All of my projects are available in my [repos](https://git.dimitrijedobrota.com) and [github](https://github.com/DimitrijeDobrota)
 
-- 📝 I regularly write articles on [personal blog](https://blog.dimitrijedobrota.com)
+- 📝 I regularly write articles on [personal blog](https://dimitrijedobrota.com/articles)
 
-- 💬 Ask me about **linux, artix, c, vim**
+- 💬 Ask me about **linux, artix, c and vim**
 
 - 📫 How to reach me **mail@dimitrijedobrota.com**
 
