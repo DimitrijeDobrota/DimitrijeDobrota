@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [stamd](https://git.dimitrijedobrota.xyz/stamd/log.html), static markdown page generator
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C**, **algorithms and data structures**
 
 - 👨‍💻 All of my projects are available in my [repos](https://git.dimitrijedobrota.xyz) and [github](https://github.com/DimitrijeDobrota)
 
