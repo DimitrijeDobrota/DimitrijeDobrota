@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C**, **algorithms and data structures**
 
+- 📚 I'm currently reading **Algorithms in C by Robert Sedgewick**
+
 - 👨‍💻 All of my projects are available in my [repos](https://git.dimitrijedobrota.xyz) and [github](https://github.com/DimitrijeDobrota)
 
 - 📝 I regularly write articles on [personal blog](https://dimitrijedobrota.xyz/articles)
