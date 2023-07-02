@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dimitije Dobrota</h1>
-<h3 align="center">20-year old bachelor of Electrical Engineering and Computer Engineering interested in linux and CS</h3>
+<h3 align="center">21-year old junior of Computer Engineering and Information Theory interested in linux and CS</h3>
 
 - 🔭 I’m currently working on [personal website](https://www.dimitrijedobrota.com)
-
-- 🌱 I’m currently learning **c++, algorithms**
-
-- 👨‍💻 All of my projects are available at [git.dimitrijedobrota.com](https://www.git.dimitrijedobrota.com)
-
-- 📝 I regularly write articles on [dimitrijedobrota.com/articles](https://www.dimitrijedobrota.com/blog/)
-
+- 🌱 I’m currently learning **c++, algorithms, networking, computer architecture**
+- 👨‍💻 All of my projects are available [here](https://www.git.dimitrijedobrota.com)
+- 📝 I regularly write articles on [my blog](https://www.dimitrijedobrota.com/blog/)
 - 💬 Ask me about **linux, vim, c/c++, algorithms**
-
 - 📫 How to reach me **mail@dimitrijedobrota.com**
 
 <h3 align="left">Connect with me:</h3>
