@@ -1,7 +1,7 @@
-<h3 align="center">22-year old junior of Computer Engineering and Information Theory interested in linux and CS</h3>
+<h3 align="center">22-year old senior of Computer Engineering and Information Theory</h3>
 
-- 🔭 I’m currently working on [leetcode problems](https://www.github.com/DimitrijeDobrota/leetcode), [chess engine](https://www.github.com/DimitrijeDobrota/stellar)
-- 🌱 I’m currently learning **c++, algorithms, computer architecture**
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning **c++**
 - 👨‍💻 All of my projects are available [here](https://www.git.dimitrijedobrota.com)
 - 📝 I regularly write articles on [my blog](https://www.dimitrijedobrota.com/blog/)
 - 💬 Ask me about **linux, vim, c/c++, algorithms**
